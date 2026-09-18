@@ -1,0 +1,12 @@
+metric,value,note
+release,MacronariaMatrix v1.0.0,Canonical-ID freeze release.
+freeze_date,2026-09-16,Project freeze date.
+analysis_matrices,8,"WU09, KN10, GA11, C12, DE12, W02/WE14, M19, M26."
+analysis_character_occurrences,2377,Biological/source character occurrences across eight analysed matrices.
+reference_layer_occurrences,234,Wilson (2002) reference-definition occurrences.
+active_canonical_concepts,855,After all redirects through final residual audit.
+canonical_redirects,87,Superseded IDs remain traceable in canonical_id_redirects.csv and original_canonical_character_id.
+residual_concepts_audited,45,Final Phase-7 residual audit.
+new_final_redirects,6,Six final source/metric reformulation redirects.
+review_candidates_remaining,0,Every active canonical ID is frozen for v1.0.0.
+universal_concepts,12,Concepts present in all eight analysed matrices.

@@ -1,0 +1,13 @@
+canonical_character_id,preferred_label,canonical_definition,matrices_present
+MC0024,P_SEPARATION,"Parietal, distance separating supratemporal fenestrae: less than (0) or twice (1) the long axis of supratemporal fenestra.",WU09; KN10; GA11; C12; DE12; W02; M19; M26
+MC0043,SO < F.MAGNUM HEIGHT,"Supraoccipital, height: twice (0) subequal to or less than (1) height of foramen magnum.",WU09; KN10; GA11; C12; DE12; W02; M19; M26
+MC0044,POP W/NONARTICULAR VENT PR,"Paroccipital process, ventral nonarticular pro- cess: absent (0); present (1).",WU09; KN10; GA11; C12; DE12; W02; M19; M26
+MC0080,#CERVICALS,"Cervical vertebrae, number: 9 or fewer (0); 10 (1); 12 (2); 13 (3); 15 or greater (4).",WU09; KN10; GA11; C12; DE12; W02; M19; M26
+MC0086,LONG_CERVICALS,"Mid-cervical centra, anteroposterior length/ height of posterior face: 2.5-3.0 (0); > 4 (1).",WU09; KN10; GA11; C12; DE12; W02; M19; M26
+MC0106,POST DV HYP-HYP,"Posterior dorsal neural arches, hyposphene- hypantrum articulations: present (0); absent (1).",WU09; KN10; GA11; C12; DE12; W02; M19; M26
+MC0108,SACRAL_#,"Sacral vertebrae, number: 3 or fewer (0); 4 (1); 5 (2); 6 (3).",WU09; KN10; GA11; C12; DE12; W02; M19; M26
+MC0118,PROCOELOUS ANT CA'S,"Anterior caudal centra (excluding the first), articular face shape: amphiplatyan or platy- coelous (0); procoelous (1); opisthocoelous (2).",WU09; KN10; GA11; C12; DE12; W02; M19; M26
+MC0153,SCAP_GLENOID_BEVELLED_MEDIALL,"Scapular glenoid, orientation: relatively flat or laterally facing (0); strongly bevelled medially (1).",WU09; KN10; GA11; C12; DE12; W02; M19; M26
+MC0158,ST_PL_SHAPE,"Sternal plate, shape: oval (0); crescentic (1).",WU09; KN10; GA11; C12; DE12; W02; M19; M26
+MC0172,FORELIMB:HINDLIMB,Humerus-to-femur ratio: less than 0.60 (0); 0.60 or more (1).,WU09; KN10; GA11; C12; DE12; W02; M19; M26
+MC0234,OSTEODERMS,Osteoderms: absent (0); present (1).,WU09; KN10; GA11; C12; DE12; W02; M19; M26

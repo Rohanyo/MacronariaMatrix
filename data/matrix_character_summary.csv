@@ -1,0 +1,9 @@
+matrix_id,display_name,year,biological_characters,encoded_analysis_columns,encoding_only_columns,unique_canonical_concepts,high_confidence_occurrences,moderate_confidence_occurrences
+WU09,Wilson & Upchurch 2009,2009,234,234,0,234,234,0
+KN10,Ksepka & Norell 2010,2010,243,243,0,243,243,0
+GA11,Gallina & Apesteguía 2011,2011,77,77,0,77,47,30
+C12,Carballido et al. 2012,2012,334,334,0,334,207,127
+DE12,D'Emic 2012,2012,119,121,2,119,103,16
+W02,Wagner & Estabrook 2014 compilation,2014,246,250,4,246,246,0
+M19,Mannion et al. 2019,2019,548,548,0,548,51,497
+M26,Mannion et al. 2026,2026,576,576,0,576,59,517
